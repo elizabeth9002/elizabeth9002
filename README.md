@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabeth9002&label=Profile%20views&color=0e75b6&style=flat" alt="elizabeth9002" /> </p>
-
-- 🌱 I’m currently learning **web development at abocoders acedemy**
+- 🌱 I’m a graduate of **abocoders acedemy**
 
 - 📫 How to reach me **anasedaniella@gmail.com** and **elizabethakiga14@gmail.com**
 <h3 align="left">Connect with me:</h3>
